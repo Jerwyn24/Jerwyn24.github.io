@@ -1,0 +1,73 @@
+h1 {
+    color: #5A0001;
+}
+
+h2{color: gold;}
+
+h3{color: FAB2EA;}
+
+h4{color: royalblue;}
+
+body {
+    background-color: #62B6CB
+}
+
+h4 {
+    font size: 1em;
+}
+
+/*******Education styling***/
+#education{color: 4A051C;}
+
+#education h2{
+    color: red;
+}
+
+#seminars-attended{color: 60495A}
+
+#seminars-attended h2{
+    color: beige;
+}
+
+ul {
+    list-style: none;
+    color: #F26419;
+    padding: 0;
+    text-align: justify;
+}
+
+#research-papers-prepared{color: green;}
+
+#research-papers-prepared h2{
+    color: blue;
+}
+
+#personal-background{color: blue;}
+
+#personal-background h2{
+    color: #5941A9;
+}
+
+#references {color: red;}
+
+#references h2{
+    color: green;
+}
+
+#profile-pic {
+    border-radius: 10%;
+}
+
+#left-col {
+    width: 20em;
+    height: 100vh;
+    background-color: #CAE9FF;
+    text-align: center;
+}
+
+#right-col {
+    width: em;
+    margin-left: 400;
+}
+
+.surname{color: silver;}
